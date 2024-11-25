@@ -1,5 +1,23 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+WTO: Plataforma de Tutorías en Línea
+Descripción
+WTO es una plataforma interactiva que conecta estudiantes y tutores a través de una interfaz amigable, brindando acceso a tutorías personalizadas. Desarrollado con Next.js y Firebase, este proyecto tiene como objetivo proporcionar una solución escalable para facilitar la educación en línea de calidad.
+
+Tecnologías
+Este proyecto utiliza las siguientes tecnologías:
+
+Frontend: Next.js
+Backend y Base de Datos: Firebase
+Desarrollo Local: Node.js, npm, Firebase CLI
+Diseño: Figma (para la interfaz de usuario)
+Requisitos
+Antes de empezar, asegúrate de tener instalados los siguientes requisitos:
+
+Node.js (recomendado la versión LTS)
+npm o yarn
+Firebase CLI para la configuración de Firebase (si se desea realizar cambios en la base de datos o autenticación)
+
 ## Getting Started
 
 First, run the development server:
@@ -34,3 +52,4 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
